@@ -5,7 +5,7 @@ Frontend Developer and Web designer
 -----------------------------------
 
 * 🌍  I'm based in Germany
-* ⚡  I'm a Pen&Paper Junkey since round about 2013
+* ⚡  Pen&Paper Junkey since 2013
 
 ### Skills
 
