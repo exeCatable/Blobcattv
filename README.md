@@ -1,10 +1,10 @@
-Hi 👋 My name is Mina
+Hi 👋
 =====================
 
 Frontend Developer and Web designer
 -----------------------------------
 
-* 🌍  I'm based in Germany#
+* 🌍  I'm based in Germany
 * 🎲  Pen&Paper Junkey since 2013
 
 ### Skills
